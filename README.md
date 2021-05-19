@@ -1,2 +1,4 @@
 # kSAT-Resample
-A project that consists the following part:
+A project that contains
+1. a parametrized random kSAT generator
+2. resampling algorithms
